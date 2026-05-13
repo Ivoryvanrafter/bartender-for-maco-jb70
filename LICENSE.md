@@ -1,4 +1,4 @@
-
+Bartender for macOS ultimate Helper - virtualization and scripting-support offers the most advanced Bartender for macOS helper, with virtualization and scripting-support. Ideal
 
 
 
